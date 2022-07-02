@@ -1,3 +1,5 @@
+
+- 🔭 I’m currently working on mern STACK
 <a href="https://app.daily.dev/ajay_12"><img src="https://api.daily.dev/devcards/977aadaed7464bd088cf7f28c5684e6f.png?r=m9j" width="400" alt="Ajay krishnanand Paikra's Dev Card"/></a>
 
 ### Hi there 👋
