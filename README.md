@@ -9,10 +9,9 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on mern STACK
-- 🌱 I’m currently learning DEVOOPS
-- 👯 I’m looking to collaborate on 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🌱 I’m currently learning solidity | 
+- 👯 I’m looking to collaborate on Hackathon's
+- 💬 Ask me about
 - 📫 How to reach me: mail me :- ajaykrishnanand.5689@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
