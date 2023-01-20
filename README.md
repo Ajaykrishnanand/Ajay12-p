@@ -9,9 +9,9 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on mern STACK
-- 🌱 I’m currently learning solidity | 
+- 🌱 I’m currently learning solidity | ether js 
 - 👯 I’m looking to collaborate on Hackathon's
-- 💬 Ask me about
+- 💬 Ask me about : onePiece
 - 📫 How to reach me: mail me :- ajaykrishnanand.5689@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
