@@ -19,9 +19,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
-# My Github Stats
-<img class="img" style="height:auto; width:50%;" src="https://github-readme-stats.vercel.app/api?username=Ajay12-p&theme=radical&show_icons=true&count_private=true" />
-<img class="img" style="height:auto; width:50%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajay12-p&theme=radical&layout=compact" />
+
 
 # Github Streak
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajay12-p&show_icons=true&locale=en&layout=compact" alt="ajay12-p" /></p>
