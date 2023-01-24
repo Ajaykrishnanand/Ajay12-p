@@ -23,7 +23,9 @@ Here are some ideas to get you started:
 <img class="img" style="height:auto; width:50%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajay12-p&theme=radical&layout=compact" />
 
 # Github Streak
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ajay12-p&theme=radical" width=400 align="center" />
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajay12-p&show_icons=true&locale=en&layout=compact" alt="ajay12-p" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajay12-p&" alt="ajay12-p" /></p>
 
 
 # GitHub Activity Graph:
