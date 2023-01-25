@@ -28,5 +28,5 @@ Here are some ideas to get you started:
 [![trophy](https://github-profile-trophy.vercel.app/?username=Ajay12-p)](https://github.com/ryo-ma/github-profile-trophy)
 
 # GitHub Activity Graph:
-![GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Ajay12-p &hide_border=true&theme=material-palenight)
+![GitHub activity graph](https://activity-graph.herokuapp.com/graph?username= Ajay12-p&hide_border=true&theme=material-palenight)
 </div>
