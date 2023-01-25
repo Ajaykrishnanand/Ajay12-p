@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajay12-p&show_icons=true&locale=en&layout=compact" alt="ajay12-p" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajay12-p&" alt="ajay12-p" /></p>
-<a> 
-  [![trophy](https://github-profile-trophy.vercel.app/?username=Ajay12-p)](https://github.com/ryo-ma/github-profile-trophy)
-<a/>
+<div> 
+  [(https://github-profile-trophy.vercel.app/?username=Ajay12-p)](https://github.com/ryo-ma/github-profile-trophy)
+<div/>
 
 # GitHub Activity Graph:
 ![GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Ajay12-p&hide_border=true&theme=material-palenight)
