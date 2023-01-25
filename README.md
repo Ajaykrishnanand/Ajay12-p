@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajay12-p&" alt="ajay12-p" /></p>
 <div> 
-  [(https://github-profile-trophy.vercel.app/?username=Ajay12-p)](https://github.com/ryo-ma/github-profile-trophy)
+  [(https://github-profile-trophy.vercel.app/?username=Ajay12-p)](https://github.com/Ajay12-p/github-profile-trophy)
 <div/>
 
 # GitHub Activity Graph:
