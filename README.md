@@ -28,5 +28,5 @@ Here are some ideas to get you started:
 
 
 # GitHub Activity Graph:
-![GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Ajay12-p&hide_border=true&theme=material-palenight)
+  ![GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Ajay12-p&hide_border=true&theme=material-palenight)
 </div>
