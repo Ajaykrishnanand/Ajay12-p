@@ -12,10 +12,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning solidity | ether js 
 - 👯 I’m looking to collaborate on Hackathon's
 - 📫 How to reach me: mail me :- ajaykrishnanand.5689@gmail.com
-- 💬 Ask me about : onePiece
-
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💬 Ask me about : onePiece.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
